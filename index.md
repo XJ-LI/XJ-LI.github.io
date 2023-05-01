@@ -1,8 +1,11 @@
 ---
 layout: default
 ---
+# About Me
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I am a fourth-year Ph.D. candidate at Emory University's Department of Mathematics. My advisor is Lars Ruthotto. My current research involves using deep 
+learning based methods for PDE and optimal control related mathematical problems. I received my B.S. from Xiamen University in China.
+
 
 <!--
 [Link to another page](./another-page.html).
