@@ -6,7 +6,8 @@ layout: default
 I am a fourth-year Ph.D. candidate at Emory University's Department of Mathematics. My advisor is Lars Ruthotto. My current research involves using deep 
 learning based methods for PDE and optimal control related mathematical problems. I received my B.S. from Xiamen University in China.
 
-[click on this link](#Header-6)
+[click on this link](#header-6)
+
 <!--
 [Link to another page](./another-page.html).
 '''
