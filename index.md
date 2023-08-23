@@ -17,7 +17,8 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 # Teaching
 
-I was primary instructor for MATH111 Calculus I in Fall 2021 and Spring 2022.
+I was primary instructor for MATH111 Calculus I in Fall 2021 and Spring 2022. 
+
 I was teaching assistant for MATH221 Linear Algebra in Fall 2020 and Spring 2021.
 
 ## Header 2
