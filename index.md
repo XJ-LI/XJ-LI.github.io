@@ -21,6 +21,10 @@ I was primary instructor for MATH111 Calculus I in Fall 2021 and Spring 2022.
 
 I was teaching assistant for MATH221 Linear Algebra in Fall 2020 and Spring 2021.
 
+# Presentations
+
+Poster: X Li, D Verma, L Ruthotto. “A Neural Network Approach For High-Dim Stochastic Optimal Control” in SIAM MDS22. [Link](https://drive.google.com/file/d/11cHGhHRTOtEFKEhpiS8bxJ4N9vjoXKjI/view?usp=sharing)
+
 ## Header 2
 
 > This is a blockquote following a header.
