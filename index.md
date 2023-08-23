@@ -19,6 +19,13 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 My research focuses mainly on incorporating deep learning techniques into solving PDE and optimal control problems, specifically I am interested in tackling high dimensional optimal control problems where common numerical methods are insufficient. I also have a general interest in Physics Informed Neural Networks (PINNs).
 
+## Publications
+* D. Onken, S. W. Fung, X. Li, L. Ruthotto. OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport. [preprint](https://arxiv.org/abs/2006.00104) [Accepted, AAAI 2021] 
+* D. Onken, L. Nurbekyan, X. Li, S. W. Fung, S. Osher, L. Ruthotto. A Neural Network Approach Applied to Multi-Agent Optimal Control. [preprint](https://arxiv.org/abs/2011.04757) [Accepted, European Control Conference 2021]
+* D Onken, L Nurbekyan, X Li, S Wu Fung, S Osher, L Ruthotto. A Neural Network Approach for High-Dimensional Optimal Control Applied to Multi-Agent Path Finding. [preprint](https://arxiv.org/abs/2104.03270) [Accepted, IEEE TCST 2022]
+* X Li, D Verma, L Ruthotto, A Neural Network Approach for Stochastic Optimal Control. [preprint](https://arxiv.org/abs/2209.13104)
+
+
 # Teaching
 
 I was primary instructor for MATH111 Calculus I in Fall 2021 and Spring 2022. 
