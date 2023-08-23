@@ -45,6 +45,7 @@ I was part of the Emory SIAM Chapter student organization, serving as vice presi
 
 I am currently part of the Emory SIAM Chapter student organization, serving as treasurer.
 
+<!--
 ## Header 2
 
 > This is a blockquote following a header.
@@ -152,3 +153,4 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+-->
