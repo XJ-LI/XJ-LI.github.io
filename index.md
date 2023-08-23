@@ -6,7 +6,6 @@ layout: default
 I am a fourth-year Ph.D. candidate at Emory University's Department of Mathematics. My advisor is Lars Ruthotto. My current research involves using deep 
 learning based methods for PDE and optimal control related mathematical problems. I received my B.S. from Xiamen University in China.
 
-[click on this link](#header-6)
 
 <!--
 [Link to another page](./another-page.html).
@@ -16,9 +15,10 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 -->
-# Header 1
+# Teaching
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I was primary instructor for MATH111 Calculus I in Fall 2021 and Spring 2022.
+I was teaching assistant for MATH221 Linear Algebra in Fall 2020 and Spring 2021.
 
 ## Header 2
 
@@ -56,7 +56,7 @@ end
 3.  This is an ordered list following a header.
 
 ###### Header 6
-
+[click on this link](#header-6)
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
 | ok           | good swedish fish | nice  |
