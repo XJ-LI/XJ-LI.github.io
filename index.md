@@ -32,9 +32,18 @@ I was primary instructor for MATH111 Calculus I in Fall 2021 and Spring 2022.
 
 I was teaching assistant for MATH221 Linear Algebra in Fall 2020 and Spring 2021.
 
+I was grader for MATH315 Numerical Analysis in Fall 2019, MATH347 Non-Linear Optimization in Spring 2020 and Spring 2021.
+
 # Presentations
 
 Poster: X Li, D Verma, L Ruthotto. “A Neural Network Approach For High-Dim Stochastic Optimal Control” in SIAM MDS22. [Link](https://drive.google.com/file/d/11cHGhHRTOtEFKEhpiS8bxJ4N9vjoXKjI/view?usp=sharing)
+
+# Other Activities
+
+## Emory SIAM Chapter
+I was part of the Emory SIAM Chapter student organization, serving as vice president from Fall 2022 to Summer 2023.
+
+I am currently part of the Emory SIAM Chapter student organization, serving as treasurer.
 
 ## Header 2
 
