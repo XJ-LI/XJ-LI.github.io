@@ -45,6 +45,11 @@ I was part of the Emory SIAM Chapter student organization, serving as vice presi
 
 I am currently part of the Emory SIAM Chapter student organization, serving as treasurer.
 
+## Some Interesting Papers I Found Recently
+Deep Level-set Method for Stefan Problems. [link](https://arxiv.org/abs/2306.11601)
+
+Asymptotic self-similar blow-up profile for three-dimensional axisymmetric Euler equations using neural networks. [link](https://arxiv.org/abs/2201.06780)
+
 <!--
 ## Header 2
 
