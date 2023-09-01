@@ -50,6 +50,8 @@ Deep Level-set Method for Stefan Problems. [link](https://arxiv.org/abs/2306.116
 
 Asymptotic self-similar blow-up profile for three-dimensional axisymmetric Euler equations using neural networks. [link](https://arxiv.org/abs/2201.06780)
 
+Improving and generalizing flow-based generative models with minibatch optimal transport. [link](https://arxiv.org/abs/2302.00482)
+
 <!--
 ## Header 2
 
