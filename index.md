@@ -52,6 +52,14 @@ Asymptotic self-similar blow-up profile for three-dimensional axisymmetric Euler
 
 Improving and generalizing flow-based generative models with minibatch optimal transport. [link](https://arxiv.org/abs/2302.00482)
 
+
+# Contact
+
+**Email:** xingjian.li@emory.edu
+
+**Address:** W431 Math & Science Center, Emory University
+
+
 <!--
 ## Header 2
 
