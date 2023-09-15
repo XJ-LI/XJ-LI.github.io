@@ -54,7 +54,7 @@ Improving and generalizing flow-based generative models with minibatch optimal t
 
 # Curriculum Vitae
 
-Add link.
+Click [here](https://xj-li.github.io/CV-2023.pdf).
 
 # Contact
 
