@@ -3,8 +3,8 @@ layout: default
 ---
 # About Me
 
-I am a fifth-year Ph.D. candidate at Emory University's Department of Mathematics. My advisor is Lars Ruthotto. My current research involves using deep 
-learning based methods for PDE and optimal control related mathematical problems. I received my B.S. from Xiamen University in China.
+I am a postdoc fellow at Oden Institute, University of Texas at Austin. I work under the supervision of Dr. Krishna Kumar. My current research involves using deep 
+learning based methods for PDE and optimal control related mathematical problems. I received my B.S. from Xiamen University in China and Ph.D. from Emory University.
 
 
 <!--
@@ -17,13 +17,17 @@ There should be whitespace between paragraphs. We recommend including a README, 
 -->
 # Research
 
-My research focuses mainly on incorporating deep learning techniques into solving PDE and optimal control problems, specifically I am interested in tackling high dimensional optimal control problems where common numerical methods are insufficient. I also have a general interest in Physics Informed Neural Networks (PINNs).
+My research focuses mainly on incorporating deep learning techniques into solving PDE and optimal control problems, specifically I am interested in tackling high dimensional optimal control problems where common numerical methods are insufficient. I also have a general interest in Physics Informed Neural Networks (PINNs), operator learning and more.
 
 ## Publications
 * D. Onken, S. W. Fung, X. Li, L. Ruthotto. OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport. [preprint](https://arxiv.org/abs/2006.00104) [Accepted, AAAI 2021] 
 * D. Onken, L. Nurbekyan, X. Li, S. W. Fung, S. Osher, L. Ruthotto. A Neural Network Approach Applied to Multi-Agent Optimal Control. [preprint](https://arxiv.org/abs/2011.04757) [Accepted, European Control Conference 2021]
 * D Onken, L Nurbekyan, X Li, S Wu Fung, S Osher, L Ruthotto. A Neural Network Approach for High-Dimensional Optimal Control Applied to Multi-Agent Path Finding. [preprint](https://arxiv.org/abs/2104.03270) [Accepted, IEEE TCST 2022]
-* X Li, D Verma, L Ruthotto, A Neural Network Approach for Stochastic Optimal Control. [preprint](https://arxiv.org/abs/2209.13104)
+* X Li, D Verma, L Ruthotto, A Neural Network Approach for Stochastic Optimal Control. [preprint](https://arxiv.org/abs/2209.13104) [Accepted, SIAM SISC 2024]
+
+## Preprints
+* K Kan, X LI, S Osher, OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization. [preprint](https://arxiv.org/pdf/2501.18793)
+* R Pant, S Li, X Li, H Iqbal, K Kumar, MLPs and KANs for data-driven learning in physical problems: A performance comparison. [preprint](https://arxiv.org/pdf/2504.11397)
 
 
 # Teaching
@@ -35,32 +39,25 @@ I was teaching assistant for MATH221 Linear Algebra in Fall 2020 and Spring 2021
 I was grader for MATH315 Numerical Analysis in Fall 2019, MATH347 Non-Linear Optimization in Spring 2020 and Spring 2021.
 
 # Presentations
-
-Poster: X Li, D Verma, L Ruthotto. “A Neural Network Approach For High-Dim Stochastic Optimal Control” in SIAM MDS22. [Link](https://drive.google.com/file/d/11cHGhHRTOtEFKEhpiS8bxJ4N9vjoXKjI/view?usp=sharing)
+* SIAM Conference on Mathematics of Data Science (MDS22), San Diego, 2022.
+Poster: A Neural Network Approach For High-Dim Stochastic Optimal Control. [Link](https://drive.google.com/file/d/11cHGhHRTOtEFKEhpiS8bxJ4N9vjoXKjI/view?usp=sharing)
+* SIAM Computational Science and Engineering (CSE25), Fort Worth, 2025.
+Title: Function Encoders and Their Applications in Physics Informed Neural Networks.
 
 # Other Activities
 
 ## Emory SIAM Chapter
-I was part of the Emory SIAM Chapter student organization, serving as vice president from Fall 2022 to Summer 2023.
-
-I am currently part of the Emory SIAM Chapter student organization, serving as treasurer.
-
-## Some Interesting Papers I Found Recently
-Deep Level-set Method for Stefan Problems. [link](https://arxiv.org/abs/2306.11601)
-
-Asymptotic self-similar blow-up profile for three-dimensional axisymmetric Euler equations using neural networks. [link](https://arxiv.org/abs/2201.06780)
-
-Improving and generalizing flow-based generative models with minibatch optimal transport. [link](https://arxiv.org/abs/2302.00482)
+I was part of the Emory SIAM Chapter student organization, serving as vice president from Fall 2022 to Summer 2023, and treasurer from Fall 2023 to Summer 2024.
 
 # Curriculum Vitae
 
-Click [here](https://xj-li.github.io/CV-full.pdf).
+Click [here](https://xj-li.github.io/CV-full.pdf), updated 2024 Summer.
 
 # Contact
 
-**Email:** xingjian.li@emory.edu
+**Email:** xingjian.li@austin.utexas.edu
 
-**Address:** W431 Math & Science Center, Emory University
+**Address:** 201 E 24TH ST AUSTIN, TX 78712 United States of America
 
 
 <!--
