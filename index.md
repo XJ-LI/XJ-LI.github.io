@@ -22,12 +22,15 @@ My research focuses mainly on incorporating deep learning techniques into solvin
 ## Publications
 * D. Onken, S. W. Fung, X. Li, L. Ruthotto. OT-Flow: Fast and Accurate Continuous Normalizing Flows via Optimal Transport. [preprint](https://arxiv.org/abs/2006.00104) [Accepted, AAAI 2021] 
 * D. Onken, L. Nurbekyan, X. Li, S. W. Fung, S. Osher, L. Ruthotto. A Neural Network Approach Applied to Multi-Agent Optimal Control. [preprint](https://arxiv.org/abs/2011.04757) [Accepted, European Control Conference 2021]
-* D Onken, L Nurbekyan, X Li, S Wu Fung, S Osher, L Ruthotto. A Neural Network Approach for High-Dimensional Optimal Control Applied to Multi-Agent Path Finding. [preprint](https://arxiv.org/abs/2104.03270) [Accepted, IEEE TCST 2022]
-* X Li, D Verma, L Ruthotto, A Neural Network Approach for Stochastic Optimal Control. [preprint](https://arxiv.org/abs/2209.13104) [Accepted, SIAM SISC 2024]
+* D. Onken, L. Nurbekyan, X. Li, S. W. Fung, S. Osher, L. Ruthotto. A Neural Network Approach for High-Dimensional Optimal Control Applied to Multi-Agent Path Finding. [preprint](https://arxiv.org/abs/2104.03270) [Accepted, IEEE TCST 2022]
+* X. Li, D. Verma, L. Ruthotto. A Neural Network Approach for Stochastic Optimal Control. [preprint](https://arxiv.org/abs/2209.13104) [Accepted, SIAM SISC 2024]
 
 ## Preprints
-* K Kan, X LI, S Osher, OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization. [preprint](https://arxiv.org/pdf/2501.18793)
-* R Pant, S Li, X Li, H Iqbal, K Kumar, MLPs and KANs for data-driven learning in physical problems: A performance comparison. [preprint](https://arxiv.org/pdf/2504.11397)
+* K. Kan, X. LI, S. Osher. OT-Transformer: A Continuous-time Transformer Architecture with Optimal Transport Regularization. [preprint](https://arxiv.org/pdf/2501.18793)
+* R. Pant, S. Li, X. Li, H. Iqbal, K. Kumar. MLPs and KANs for data-driven learning in physical problems: A performance comparison. [preprint](https://arxiv.org/pdf/2504.11397)
+* S. Tretiakov, X. Li, K. Kumar. SetONet: A Deep Set-based Operator Network for Solving PDEs with permutation invariant variable input sampling. [preprint](https://arxiv.org/pdf/2505.04738)
+* K. Kan, X. Li, B. J. Zhang, T. Sahai, S. Osher, M. A. Katsoulakis. Optimal Control for Transformer Architectures: Enhancing Generalization, Robustness and Efficiency. [preprint](https://arxiv.org/pdf/2505.13499)
+
 
 
 # Teaching
